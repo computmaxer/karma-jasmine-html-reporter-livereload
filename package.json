@@ -1,0 +1,31 @@
+{
+  "name": "karma-jasmine-html-reporter",
+  "version": "1.0.0",
+  "description": "A Karma plugin. Dynamically displays tests results at debug.html page and can be reloaded with livereload",
+  "main": "./src/index.js",
+  "keywords": [
+    "karma-plugin",
+    "karma-reporter",
+    "html"
+  ],
+  "repository": {
+    "url": "https://github.com/computmaxer/karma-jasmine-html-reporter-livereload"
+  },
+  "author": "Max Peterson <computmaxer@gmail.com>",
+  "dependencies": {
+    "karma-jasmine": "~0.2"
+  },
+  "peerDependencies": {
+    "karma": ">=0.9"
+  },
+  "license": "MIT",
+  "devDependencies": {},
+  "maintainers": [
+    {
+      "name": "Max Peterson",
+      "email": "computmaxer@gmail.com"
+    }
+  ],
+  "directories": {},
+  "readme": "README.md"
+}
